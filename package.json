@@ -1,5 +1,5 @@
 {
-	"name": "@johnfmorton/craft-favicon-generator",
+	"name": "@johnfmorton/favicon-generator-craftcms",
 	"version": "0.1.0",
 	"description": "Generate favicon assets, manifests, and HTML tags for Craft CMS + Vite projects",
 	"type": "module",

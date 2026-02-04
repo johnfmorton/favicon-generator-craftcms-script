@@ -7,7 +7,7 @@ Uses the [favicons](https://github.com/itgalaxy/favicons) package (v7+, built on
 ## Installation
 
 ```bash
-npm install @johnfmorton/craft-favicon-generator
+npm install @johnfmorton/favicon-generator-craftcms
 ```
 
 ## Quick Start
@@ -114,7 +114,7 @@ Without the Craft Vite plugin:
 ## Programmatic API
 
 ```javascript
-import { generate } from '@johnfmorton/craft-favicon-generator'
+import { generate } from '@johnfmorton/favicon-generator-craftcms'
 
 const result = await generate({
   source: '/absolute/path/to/favicon-src.png',
