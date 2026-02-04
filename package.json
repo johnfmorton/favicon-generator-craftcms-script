@@ -11,7 +11,8 @@
 	},
 	"files": [
 		"bin/",
-		"src/"
+		"src/",
+		"CHANGELOG.md"
 	],
 	"engines": {
 		"node": ">=20.0.0"
