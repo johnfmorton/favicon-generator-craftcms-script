@@ -1,6 +1,6 @@
 {
 	"name": "@johnfmorton/favicon-generator-craftcms",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Generate favicon assets, manifests, and HTML tags for Craft CMS + Vite projects",
 	"type": "module",
 	"bin": {
@@ -27,5 +27,13 @@
 		"manifest",
 		"icons"
 	],
-	"license": "MIT"
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/johnfmorton/favicon-generator-craftcms-script.git"
+	},
+	"homepage": "https://github.com/johnfmorton/favicon-generator-craftcms-script#readme",
+	"bugs": {
+		"url": "https://github.com/johnfmorton/favicon-generator-craftcms-script/issues"
+	}
 }
