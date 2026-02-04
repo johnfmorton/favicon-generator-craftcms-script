@@ -4,7 +4,7 @@
 	"description": "Generate favicon assets, manifests, and HTML tags for Craft CMS + Vite projects",
 	"type": "module",
 	"bin": {
-		"craft-favicon-generator": "./bin/craft-favicon-generator.mjs"
+		"craft-favicon-generator": "./bin/craft-favicon-generator"
 	},
 	"exports": {
 		".": "./src/generate.mjs"
